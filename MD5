@@ -1,0 +1,16 @@
+1a714651d03042596bd0eb99426a11dc *DESCRIPTION
+3625d7508fd8eb39d663506c68584483 *NAMESPACE
+ac3842d2860d75750a9c128a87f7bc50 *NEWS.md
+edebbfbd72fb41f9260b1f9156ca915b *R/accept_invite.R
+86a47f8fb85bf58098a6016e916a94ec *R/check_git_repo.R
+dcd9ba4b2ceed56d40762e7f4cffac93 *R/get_git_auth.R
+e422a3b2778ab3546fe8e5ab60b26fcb *R/get_issues.R
+74c3b43773525386d953be6328aebbc9 *R/get_repos.R
+bb2085f69e0942c760d4bdc1c6091737 *README.md
+e797cd8b3871daa009fde86b73cfaf4f *man/accept_all_invites.Rd
+58a28cdcd74de3f03e355c3f9e795bea *man/check_git_repo.Rd
+0ea3fbb847d2267ce1f5eb6b2c3c9cfc *man/get_git_auth.Rd
+c0b72d504c7ed450ce3be7b963ebc51c *man/get_issues.Rd
+ed4373dae0b59bf04e7e1dbe26b09406 *man/get_repos.Rd
+d6e28580104df42f2c908c2393070d46 *tests/testthat.R
+109e13a8acc5c2883abb28cd9fa615da *tests/testthat/test-test.R
